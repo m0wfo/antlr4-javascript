@@ -1,4 +1,5 @@
 {
+	"repository": "m0wfo/antlr4-javascript",
 	"name" : "antlr4",
 	"description" : "JavaScript runtime for ANTRL4",
 	"keywords" : [ "lexer", "parser", "antlr", "grammar"],
