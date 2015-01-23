@@ -35,7 +35,7 @@
 // 
 var InputStream = require('./InputStream').InputStream;
 try {
-	var fs = require("fs");
+//	var fs = require("fs");
 } catch(ex) {
 	// probably running from browser, no "Node.js/fs" makes sense 
 }
